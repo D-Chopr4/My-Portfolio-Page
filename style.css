@@ -1,0 +1,33 @@
+h1 { 
+
+color:white;
+
+}
+
+.Header{
+
+    background-color:rgb(247, 181, 59);
+    display:flex;
+    justify-content:space-between;
+
+}
+
+.Grid{
+
+    background-color: orange;
+    display:flex;
+    justify-content:space-around;
+    flex-wrap:wrap;
+}
+
+.Description{
+
+    background-color:tomato;
+    text-align:center;
+}
+
+.Footer{
+    display:flex;
+    justify-content:space-between;
+    background-color:rgb(247, 181, 59);
+}
